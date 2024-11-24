@@ -1,6 +1,6 @@
 # NewProjForGit
 
-> Python 3.12
+> Python 3.12 | Tkinter
 
 NewProjForGit - desktop app on Python with lib "tkinter".
 Create a local project and repository in GitHub. Enter the paths in the corresponding fields. Your local project will be uploaded to GitHub.
